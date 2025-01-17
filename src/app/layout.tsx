@@ -8,7 +8,7 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-	title: "Slack Clone",
+	title: "Huddle",
 	description: "Slack clone",
 };
 
