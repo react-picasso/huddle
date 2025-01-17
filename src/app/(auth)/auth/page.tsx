@@ -46,6 +46,7 @@ const AuthPage = () => {
         setIsAuthenticating(false);
         if (error) {
             console.warn("SIGN IN ERROR", error);
+            console.log(values);
             return;
         }
     }
